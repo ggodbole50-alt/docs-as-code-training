@@ -100,4 +100,4 @@ Checklist test test
 - [ ] Export the finished document
 
 Footnotes
-[^1]: Footnotes appear at the bottom of the rendered preview.
+[^1]: Footnotes appear at the bottom of the rendered preview. sdf

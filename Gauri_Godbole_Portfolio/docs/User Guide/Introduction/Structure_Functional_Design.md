@@ -4,4 +4,4 @@ For designers, architects, and engineers, Structure Functional Design provides t
 - Addresses functional design requirements for the shipbuilding industry.
 - Builds on the conceptual design letting you refine and strake the hull, add plate thicknesses to decks and bulkheads, and define longitudinal and transverse stiffener systems.
 - Enables you to gauge the openings, end cuts, slots need to be designed for the passing of profiles, like stiffener and beams.
-The Structure Functional Design app is not compatible with the *Offline* mode.
+The Structure Functional Design app is not compatible with the *Offline* mode. test.

@@ -1,10 +1,10 @@
 const sidebars = {
   docsSidebar: [
     'getting-started',
-    'installation',
+    'installation Guide',
     'user-guide',
-    'administration',
-    'troubleshooting',
+    'administration Guide',
+    'Troubleshooting Guide',
     'submit-an-expense',
   ],
 };
